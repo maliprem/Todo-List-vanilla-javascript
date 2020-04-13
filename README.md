@@ -3,4 +3,4 @@ A Todo list in Vanilla javascript.
 Hi, Manavs
 
 I like Javascript.
-This is Todolist 
+This is Todolist in Javascript.
